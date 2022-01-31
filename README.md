@@ -56,7 +56,7 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 :email: anastasia.a2002@gmail.com
 
 - **Telegram** <br />
-:iphone: ![@larsic](https://t.me/larsic)
+:iphone: [@larsic](https://t.me/larsic)
 
 - **VK** <br />
-:iphone: ![@asyairita](https://vk.com/asyairita)
+:iphone: [@asyairita](https://vk.com/asyairita)
