@@ -4,6 +4,9 @@
 
 My name is Arunova Anastasia. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=adarunova)](https://github.com/adarunova)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarunova&layout=compact)](https://github.com/adarunova)
 
 ## :mortar_board: Education
 
