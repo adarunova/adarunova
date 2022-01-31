@@ -5,21 +5,21 @@
 My name is Arunova Anastasia. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
 
-##:mortar_board: Education
+## :mortar_board: Education
 
-- **Secondary general education**
-:fa-map-marker: <font size="2">    Moscow, Russia (2018-2020)</font> 
+- **Secondary general education**<br />
+:fa-map-marker: <font size="2">    Moscow, Russia (2018-2020)</font> <br />
 HSE Lyceum
 
 
-- **Bachelor's degree**
-:fa-map-marker: <font size="2">   Moscow, Russia (2020-present)</font> 
+- **Bachelor's degree**<br />
+:fa-map-marker: <font size="2">   Moscow, Russia (2020-present)</font> <br />
 HSE, FCS, Software Engeneering (2020-present)
 
 
-##💼 Technical skills
+## 💼 Technical skills
 
-###Programming languages :computer:
+### Programming languages :computer:
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=FD7CC9)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&color=FD7CC9)
@@ -28,7 +28,7 @@ HSE, FCS, Software Engeneering (2020-present)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=FD7CC9)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=FD7CC9)
 
-###Data analysis :bar_chart:
+### Data analysis :bar_chart:
 
 ![](https://img.shields.io/badge/Platform-Jupyter-informational?style=flat&logo=jupyter&color=FD7CC9)
 ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&color=FD7CC9)
@@ -37,7 +37,7 @@ HSE, FCS, Software Engeneering (2020-present)
 ![](https://img.shields.io/badge/Library-Scikit--learn-informational?style=flat&logo=scikitlearn&color=FD7CC9)
 ![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&color=FD7CC9)
 
-###Tools and platforms :gear:
+### Tools and platforms :gear:
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=FD7CC9)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=FD7CC9)
@@ -51,12 +51,12 @@ HSE, FCS, Software Engeneering (2020-present)
 
 ## 🤝 Contacts
 
-####E-mail
-::email::  adarunova@edu.hse.ru
-::email:: anastasia.a2002@gmail.com
+#### E-mail <br />
+:email:  adarunova@edu.hse.ru<br />
+:email: anastasia.a2002@gmail.com
 
-####Telegram
+#### Telegram <br />
 :fa-paper-plane: @larsic
 
-####VK
+#### VK <br />
 :fa-vk: https://vk.com/asyairita
