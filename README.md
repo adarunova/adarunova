@@ -8,13 +8,13 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 ## :mortar_board: Education
 
 - **Secondary general education**<br />
-:fa-map-marker: <font size="2">    Moscow, Russia (2018-2020)</font> <br />
-HSE Lyceum
+<sub>:date: Moscow, Russia (2018-2020) </sub><br />
+***HSE Lyceum***
 
 
 - **Bachelor's degree**<br />
-:fa-map-marker: <font size="2">   Moscow, Russia (2020-present)</font> <br />
-HSE, FCS, Software Engeneering (2020-present)
+<sub>:date: Moscow, Russia (2020-present)</sub> <br />
+***Software Engeneering, FCS, HSE***
 
 
 ## 💼 Technical skills
@@ -56,7 +56,7 @@ HSE, FCS, Software Engeneering (2020-present)
 :email: anastasia.a2002@gmail.com
 
 #### Telegram <br />
-:fa-paper-plane: @larsic
+:iphone: @larsic
 
 #### VK <br />
-:fa-vk: https://vk.com/asyairita
+:iphone: https://vk.com/asyairita
