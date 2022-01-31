@@ -51,12 +51,12 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 
 ## 🤝 Contacts
 
-#### E-mail <br />
+- **E-mail** <br />
 :email:  adarunova@edu.hse.ru<br />
 :email: anastasia.a2002@gmail.com
 
-#### Telegram <br />
+- **Telegram** <br />
 :iphone: @larsic
 
-#### VK <br />
+- **VK** <br />
 :iphone: https://vk.com/asyairita
