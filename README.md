@@ -55,11 +55,11 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 ## 🤝 Contacts
 
 - **E-mail** <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/email.png" width="21px"/> adarunova@edu.hse.ru <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/gmail.png" width="21px"/> anastasia.a2002@gmail.com
+<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/email.png" width="17px"/> adarunova@edu.hse.ru <br />
+<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/gmail.png" width="17px"/> anastasia.a2002@gmail.com
 
 - **Telegram** <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/telegram.png" width="21px"/> [@larsic](https://t.me/larsic)
+<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/telegram.png" width="17px"/> [@larsic](https://t.me/larsic)
 
 - **VK** <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/vk.png" width="21px"/> [@asyairita](https://vk.com/asyairita)
+<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/vk.png" width="17px"/> [@asyairita](https://vk.com/asyairita)
