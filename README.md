@@ -6,17 +6,15 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=adarunova)](https://github.com/adarunova)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarunova&layout=compact)](https://github.com/adarunova)
-
 ## :mortar_board: Education
 
 - **Secondary general education**<br />
-<sub>:date: Moscow, Russia (2018-2020) </sub><br />
-***HSE Lyceum***
+<sup>:date: *September 2018 – July 2020* :globe_with_meridians: *Moscow, Russia* </sup><br />
+***HSE Lyceum, Mathematics and Informatics***
 
 
 - **Bachelor's degree**<br />
-<sub>:date: Moscow, Russia (2020-present)</sub> <br />
+<sup>:date: *September 2018 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
 ***Software Engeneering, FCS, HSE***
 
 
@@ -33,23 +31,27 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 
 ### Data analysis :bar_chart:
 
-![](https://img.shields.io/badge/Platform-Jupyter-informational?style=flat&logo=jupyter&color=FD7CC9)
-![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&color=FD7CC9)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=FD7CC9)
-![](https://img.shields.io/badge/Library-Scipy-informational?style=flat&logo=scipy&color=FD7CC9)
-![](https://img.shields.io/badge/Library-Scikit--learn-informational?style=flat&logo=scikitlearn&color=FD7CC9)
-![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&color=FD7CC9)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&color=FD7CC9)
+![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&color=FD7CC9)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&color=FD7CC9)
+![](https://img.shields.io/badge/Scipy-informational?style=flat&logo=scipy&color=FD7CC9)
+![](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn&color=FD7CC9)
+![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&color=FD7CC9)
+![](https://img.shields.io/badge/Matplotlib-informational?style=flat&color=FD7CC9)
 
-### Tools and platforms :gear:
+### Tools :gear:
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=FD7CC9)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=FD7CC9)
-![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&color=FD7CC9)
-![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&color=FD7CC9)
-![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&color=FD7CC9)
-![](https://img.shields.io/badge/Platform-Xamarin-informational?style=flat&logo=xamarin&color=FD7CC9)
-![](https://img.shields.io/badge/Platform-.NET-informational?style=flat&logo=dotnet&color=FD7CC9)
-![](https://img.shields.io/badge/Platform-Microsoft%20Azure-informational?style=flat&logo=microsoftazure&color=FD7CC9)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=FD7CC9)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&color=FD7CC9)
+![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&color=FD7CC9)
+
+### Platforms :gear:
+
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&color=FD7CC9)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=FD7CC9)
+![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=xamarin&color=FD7CC9)
+![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&color=FD7CC9)
+![](https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&color=FD7CC9)
 
 
 ## 🤝 Contacts
@@ -63,3 +65,8 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 
 - **VK** <br />
 <img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/vk.png" width="17px"/> [@asyairita](https://vk.com/asyairita)
+
+
+## For more information
+
+[CV](https://github.com/adarunova/adarunova/CV.pdf)
