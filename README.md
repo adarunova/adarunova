@@ -10,12 +10,12 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 
 - **Secondary general education**<br />
 <sup>:date: *September 2018 – July 2020* :globe_with_meridians: *Moscow, Russia* </sup><br />
-***HSE Lyceum, Mathematics and Informatics***
+HSE Lyceum, Mathematics and Informatics
 
 
 - **Bachelor's degree**<br />
 <sup>:date: *September 2018 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
-***Software Engeneering, FCS, HSE***
+Software Engeneering, FCS, HSE
 
 
 ## 💼 Technical skills
@@ -31,27 +31,27 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 
 ### Data analysis :bar_chart:
 
-![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&color=FD7CC9)
-![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&color=FD7CC9)
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&color=FD7CC9)
-![](https://img.shields.io/badge/Scipy-informational?style=flat&logo=scipy&color=FD7CC9)
-![](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn&color=FD7CC9)
-![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&color=FD7CC9)
-![](https://img.shields.io/badge/Matplotlib-informational?style=flat&color=FD7CC9)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&color=433257)
+![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&color=433257)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&color=433257)
+![](https://img.shields.io/badge/Scipy-informational?style=flat&logo=scipy&color=433257)
+![](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn&color=433257)
+![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&color=433257)
+![](https://img.shields.io/badge/Matplotlib-informational?style=flat&color=433257)
 
 ### Tools :gear:
 
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=FD7CC9)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&color=FD7CC9)
-![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&color=FD7CC9)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=3C5186)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&color=3C5186)
+![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&color=3C5186)
 
 ### Platforms :gear:
 
-![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&color=FD7CC9)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=FD7CC9)
-![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=xamarin&color=FD7CC9)
-![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&color=FD7CC9)
-![](https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&color=FD7CC9)
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&color=211F4D)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=211F4D)
+![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=xamarin&color=211F4D)
+![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&color=211F4D)
+![](https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&color=211F4D)
 
 
 ## 🤝 Contacts
@@ -67,6 +67,4 @@ My name is Arunova Anastasia. I'm a student at the National Research University 
 <img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/vk.png" width="17px"/> [@asyairita](https://vk.com/asyairita)
 
 
-## For more information
-
-[CV](https://github.com/adarunova/adarunova/CV.pdf)
+## For more information: [CV](https://github.com/adarunova/adarunova/blob/main/CV.pdf)
