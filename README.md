@@ -14,7 +14,7 @@ HSE Lyceum, Mathematics and Informatics
 
 
 - **Bachelor's degree**<br />
-<sup>:date: *September 2018 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
+<sup>:date: *September 2020 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
 Software Engeneering, FCS, HSE
 
 
