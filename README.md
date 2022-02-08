@@ -57,14 +57,12 @@ Software Engeneering, FCS, HSE
 ## 🤝 Contacts
 
 - **E-mail** <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/email.png" width="17px"/> adarunova@edu.hse.ru <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/gmail.png" width="17px"/> anastasia.a2002@gmail.com
+adarunova@edu.hse.ru <br />
+anastasia.a2002@gmail.com
 
-- **Telegram** <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/telegram.png" width="17px"/> [@larsic](https://t.me/larsic)
+- **Telegram:** [@larsic](https://t.me/larsic)
 
-- **VK** <br />
-<img align="left" src="https://github.com/adarunova/adarunova/blob/main/images/vk.png" width="17px"/> [@asyairita](https://vk.com/asyairita)
+- **VK:** [@asyairita](https://vk.com/asyairita)
 
 
 ## For more information: [CV](https://github.com/adarunova/adarunova/blob/main/CV.pdf)
